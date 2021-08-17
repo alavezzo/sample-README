@@ -15,19 +15,19 @@
 <!-- /MarkdownTOC -->
 </details>
 
-  [![License](https://img.shields.io/badge/license-ISC-blue)](https://choosealicense.com/licenses/isc/)
+  [![License](https://img.shields.io/badge/license-GNU_GPLv2-blue)](https://choosealicense.com/licenses/gpl-2.0/)
   ## Description
   This app will display current weather conditions and a five day weather forecast for any city that is entered into the search bar.
   ## Instructions
-  No installation necessary. Just go to the deployed webpage!
+  No installation necessary! Just proceed to the deployed webpage!
   ## Usage
-  Enter a city name into the search bar and hit search.
-  ## Contribution Guidelines
-  CSS pros needed to spice up the design of the site.
+  Enter a city into the search bar and hit the search button!
+  ## Contribution Guidelines 
+  CSS pros needed to spice up the wepsite's design
   ## Test Instructions
-  Run them and cross your fingers!!
+  Cross your fingers!
   ## License 
-  This application is covered under ISC License 
+  This application is covered under GNU GPLv2 
   ## Questions 
   Link to my GitHub: [github.com/alavezzo](https://github.com/alavezzo)
   Email Address: anthonyelavezzo@gmail.com
